@@ -2,7 +2,7 @@
 accordion
 =============================================================*/
 .bandeau{
-  height:500px;
+  height:400px;
   margin-top: 150px;
   background-image: url(../img/image_relais_default.jpg);
 }
@@ -10,7 +10,7 @@ accordion
 .altmenu {
     width: 100%;
     /*margin-top: 150px;*/
-    padding-top: 10px;
+    padding-top: 0;
     padding-bottom: 10px;
     background-color: #27CC1D;
 }
@@ -19,7 +19,7 @@ accordion
     max-width: 1080px;
     height: 250px;
     overflow: hidden;
-    margin: 150px auto;
+    margin: 100px auto;
 }
 .accordion ul {
     width: 100%;
@@ -93,10 +93,11 @@ accordion
     background-image: url("../img/kiwi3.jpeg");
 }
 .accordion ul li:nth-child(4) {
-    background-image: url("../img/kiwi4.jpg");
+    /*background-image: url("../img/kiwi4.jpg");*/
+    background-image: url("../img/kiwi5.jpg");
 }
 .accordion ul li:nth-child(5) {
-    background-image: url("../img/kiwi5.jpg");
+    background-image: url("../img/kiwi6.jpg");
 }
 .accordion ul li:nth-child(6) {
     background-image: url("../img/kiwi6.jpg");
